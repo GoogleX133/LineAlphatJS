@@ -16,6 +16,7 @@ How to run ?
 Still work :construction_worker:
 ----
 **TODO** features
+- Fix Chat Spam When Bot Started (This bug only appears when u are login using authToken)
 - Implement All 
 - Improve logic
 
